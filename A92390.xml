@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The remarkable funeral of Cheapside-Crosse in London: with the reason why the bishops, Jesuits, papists, cavaliers, and Arminians, refused to bee there. Also, the order and manner of the fuinerall [sic], and the severall songs for that purpose appointed.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92390</idno><idno type="EEBO-CITATION">99860735</idno>
+  <idno type="VID">112860</idno>
+  <idno type="EEBO-PROQUEST">2248542360</idno>
+  
+            <idno type="STC">Wing R916</idno>
+            <idno type="STC">Thomason E132_38</idno>
+            <idno type="STC">ESTC R19761</idno>
+            <idno type="PROQUEST">99860735</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99860735e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92390)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112860)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E132[38])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The remarkable funeral of Cheapside-Crosse in London: with the reason why the bishops, Jesuits, papists, cavaliers, and Arminians, refused to bee there. Also, the order and manner of the fuinerall [sic], and the severall songs for that purpose appointed.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Hodgekinsonne,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Cheapside Cross (London, England) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112860:1"/>
+            <pb facs="tcp:112860:1"/>
+            <p>THE REMARKABLE FVNERAL <hi>OF</hi> CHEAPSIDE-CROSSE <hi>IN</hi> LONDON: <hi>WITH</hi> The Reason why the Bishops, Jesuits, Papists, Cavaliers, and Arminians, refused to bee there.</p>
+            <p>
+               <hi>ALSO,</hi> The Order and Manner of the Fu<g ref="char:EOLhyphen"/>nerall, and the severall Songs for that purpose appointed.</p>
+            <p>LONDON. Printed for <hi>Robert Hodgekinsonne.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112860:2"/>
+            <pb facs="tcp:112860:2"/>
+            <head>THE REMARKABLE FUNERALL, <hi>OF</hi> CHEAPSIDE-CROSSE <hi>IN</hi> London.</head>
+            <p>THe golden Crosse in Cheapside in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> receiving a mortall wound, on <hi>mun<g ref="char:EOLhyphen"/>day</hi> night, <hi>Ian.</hi> 24. and being past care, and become as dead as old <hi>Charin Crosse</hi> in the strand, it is but desent that it should now have a comely buriall: though <hi>Charin-Crosse</hi> rot a<g ref="char:EOLhyphen"/>bove ground, without all doubt the City is more charitable, S. <hi>Ʋolentines</hi> day thought best to have the Funerall on: and therefore the guests to bee invited in order, as followeth.</p>
+            <pb facs="tcp:112860:3"/>
+            <p n="2">2 The Bishops were sent for to their lodgings, but answer was made that the decoy had carried them all away, and they were all caughtwith him in the snare, and therfore could not come, but they would enter the day upon record.</p>
+            <p n="2">2 The Jesuits were sent for to <hi>Common-gar<g ref="char:EOLhyphen"/>den,</hi> but answer was made, that they were gone a Pilgrimage to S. <hi>Tyburn,</hi> to pray for the soules of the two Saints departed, to whom they pray that themselves may be kept from the Saints purgatory.</p>
+            <p n="3">3 The Papists were invited to attend the corps, but answer was made, that they were so deeply engaged to wait upon the <hi>Popish Prelats designs,</hi> that they had too little time to performe what they have protested.</p>
+            <p n="4">4 The Cavaliers were desired to come, but they had rather see <hi>Charin Crosse</hi> revived, then <hi>Cheapside Crosse</hi> buried, applauding their owne honour better to make more Crosses in the king<g ref="char:EOLhyphen"/>dome, rather then to have those we lye under re<g ref="char:EOLhyphen"/>moved. Therefore they had rather see the rest in the city rot under the Crosse, then the Crosse and supporters thereof removed, and buried in obli<g ref="char:EOLhyphen"/>vion.</p>
+            <p n="5">5 The Arminians were sent for, but answer was brought<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that if they would but stay till <hi>Pauls</hi> Church was finished, they would pray that <hi>Cheapside Crosse</hi> might be revived again: which they doubted not to obtain by the Saints depar<g ref="char:EOLhyphen"/>ture, that have bin great benefactors to that fa<g ref="char:EOLhyphen"/>mous building.</p>
+            <pb facs="tcp:112860:3"/>
+            <p n="5">5 The Nuterals were sent for, but answer was brought, that it is true they could find in their hearts to come, but they were afraid that they should be jeer'd for their labour; therfore desi<g ref="char:EOLhyphen"/>red to be accused.</p>
+            <p>Those that are to come to the Funerall, are first Citi<g ref="char:EOLhyphen"/>sens, aad their Apprentices, then Countrey-men, who follow thus in order before this Course.</p>
+            <p n="1">1 The 12 companies with broken crosses in their hands, and their Apprentices after them with printed Notes in their hands, singing as followeth,
+<q>
+                  <lg>
+                     <l>The stately adorned Crosse of Cheap-side,</l>
+                     <l>Accounted so high of, glistering in gold.</l>
+                     <l>So rich a brave Idoll through all this whole Land</l>
+                     <l>Cannot be now found our eyes to behold.</l>
+                  </lg>
+                  <lg>
+                     <l>Must thou go to lye low, must thou be buried:</l>
+                     <l>O Valentine, such a shrine thou never married.</l>
+                  </lg>
+                  <lg>
+                     <l>The Corps are a comming, give the word there before,</l>
+                     <l>Gallants march on your procrastinate time:</l>
+                  </lg>
+                  <lg>
+                     <l>If the Divell come after, and steale out the Corps</l>
+                     <l>We then shall commit a most terrible Crime.</l>
+                  </lg>
+                  <lg>
+                     <l>Must thou go to lye low, must thou be buried,</l>
+                     <l>O Valentine such a shrine thou never married,</l>
+                  </lg>
+                  <lg>
+                     <l>It then should be scattered our City throughout,</l>
+                     <l>Where ever vve go of the Crosse vve should find,</l>
+                     <l>Crosse Papists, and Iesuits, Fryers crosse all,</l>
+                     <l>Crosse Masters and Mistresses, novv vvould be kind.</l>
+                     <l>But thou must go to ly low, thou must be buried:</l>
+                     <l>O Valentine such a shrine thou never married.</l>
+                  </lg>
+               </q>
+            </p>
+            <p n="2">2 Then followeth the next 12. companies with guild bay-leaves in their hats, swords by their sides, and black staves in their hands, and after them their Apprentices, with these verses sing<g ref="char:EOLhyphen"/>ing, as followeth.</p>
+            <pb facs="tcp:112860:4"/>
+            <q>
+               <l>The great Idoll is down, down, down a,</l>
+               <l>The great Idoll in Cheap-side is dovvn a,</l>
+               <l>And now it must be buried, buried, bur<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed a,</l>
+               <l>It must be taken and buried in the ground a:</l>
+               <l>And in the ground it low must ly,</l>
+               <l>And therefore we vveep, but cannot cry a:</l>
+               <l>Wee vveep but cannot cry a,</l>
+            </q>
+            <p n="3">3. Then came after the <hi>Carpenters, Plummers, Stone-Cutters, Guilders,</hi> and all the rest of the 6. Companies, after the 24. with wreaths of bays, and hathorn twisted together about their heads, betoakning partly joy, that so great a superstiti<g ref="char:EOLhyphen"/>ous Idoll was removed, and partly sorrow, that they were not employed to erect a new one, and after their Apprentices with verses in their hands, and singing thus:
+<q>
+                  <l>The Glory of Cheap-side was a Crosse,</l>
+                  <l>But the Standard be <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es a Crown,</l>
+                  <l>And may be made more famous now</l>
+                  <l>Then <hi>London</hi> that brave Town:</l>
+                  <l>To'th Honour of King <hi>Charles</hi> erected let it be,</l>
+                  <l>Not with a Crosse, but Crovvn, more famous for to see</l>
+               </q>
+            </p>
+            <p n="4">4. The Countrey-men came after, some on horseback, then the rest on foot, crying awaywith the Idoll, <hi>down with Popery, Popish Prelats, Cere<g ref="char:EOLhyphen"/>monies, and all Idolatry:</hi> let us only serve the God of heaven, in Spirit, and in Truth, and then our grounds will be fruitfull, our barns will be full, and the Land will be filled with plenty.</p>
+            <pb facs="tcp:112860:4"/>
+            <p n="5">5. Then in the next place marched a Cardi<g ref="char:EOLhyphen"/>nall, with some Jesuits, Fryers, and Queristers, singing before the Course thus:
+<q>
+                  <lg>
+                     <l>Audi memento St. <hi>Valentine,</hi>
+                     </l>
+                     <l>To thee we do bequeath this shrine,</l>
+                     <l>That another may be erected intime,</l>
+                     <l>Lest it be forgotten,</l>
+                     <l>Quite forgotten,</l>
+                  </lg>
+                  <lg>
+                     <l>Leave us not without a Crosse,</l>
+                     <l>Whil'st Hereticks and filthy drosse</l>
+                     <l>In <gap reason="illegible" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> do our State so tosse,</l>
+                     <l>
+                        <gap reason="illegible" resp="#murp" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> the Catholicks,</l>
+                     <l>Poore Catholicks.</l>
+                  </lg>
+               </q>
+            </p>
+            <p n="6">6. Then followed the Popish Heralds, with red Crosses in their hands, and golden Copes on their backs, to advance the glory of the dead Crosse.</p>
+            <p n="7">7. Then followed the Crosse born away by 8. men.</p>
+            <list>
+               <item>1. <hi>An Anabaptist.</hi>
+               </item>
+               <item>2. <hi>A Familist.</hi>
+               </item>
+               <item>3. <hi>A Brownist.</hi>
+               </item>
+               <item>4. <hi>An Adamite.</hi>
+               </item>
+               <item>5. <hi>A Separatist.</hi>
+               </item>
+               <item>6. <hi>A Rechabite.</hi>
+               </item>
+               <item>7. <hi>A Precisian.</hi>
+               </item>
+               <item>8. <hi>A Puritan.</hi>
+               </item>
+            </list>
+            <p>All of them rejoycing to see the work done.</p>
+            <p n="8">8. In the last place follow the women, and
+<pb facs="tcp:112860:5"/>the rest of the guests, with money in their poc<g ref="char:EOLhyphen"/>kets to buy wine and rost-meat to be merry after the buriall, who seeing the work done, perfor<g ref="char:EOLhyphen"/>med accordingly with great joy, every one ha<g ref="char:EOLhyphen"/>ving it common in their mouths.</p>
+            <q>
+               <l>Cheap-side Crosse is carried away,</l>
+               <l>Therefore we will make a holy day.</l>
+            </q>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:112860:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
